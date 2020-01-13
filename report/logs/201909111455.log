@@ -1,0 +1,5 @@
+2019-09-11 14:55:34,014 - framework.config_file - INFO - You had select Phantomjs browser.
+2019-09-11 14:55:34,015 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-11 14:55:40,146 - framework.driver.web_driver - INFO - starting Phantomjs broeser
+2019-09-11 14:55:47,981 - framework.driver.web_driver - INFO - starting Phantomjs broeser
+2019-09-11 14:55:56,088 - framework.driver.web_driver - INFO - starting Phantomjs broeser

@@ -1,0 +1,4 @@
+2019-09-16 14:30:11,555 - framework.config_file - INFO - You had select headless browser.
+2019-09-16 14:30:11,556 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-16 14:30:47,307 - framework.config_file - INFO - You had select headless browser.
+2019-09-16 14:30:47,307 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html

@@ -1,0 +1,10 @@
+2019-09-16 16:24:53,552 - framework.config_file - INFO - You had select geckodriver browser.
+2019-09-16 16:24:53,552 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-16 16:26:58,772 - __main__ - INFO - 生成测试报告
+2019-09-16 16:26:58,772 - Report - INFO - 初始化邮件数据
+2019-09-16 16:26:58,772 - Report - INFO - 查找最新生成的测试报告
+2019-09-16 16:26:58,775 - Report - INFO - 发送邮件初始化
+2019-09-16 16:26:58,775 - Report - INFO - 添加邮件正文
+2019-09-16 16:26:58,776 - Report - INFO - 添加邮件附件
+2019-09-16 16:26:58,776 - Report - INFO - 邮件服务器连接
+2019-09-16 16:27:00,345 - Report - INFO - 邮件发送成功

@@ -1,0 +1,26 @@
+2019-09-12 17:36:37,317 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-12 17:36:37,317 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-12 17:36:43,670 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-12 17:36:43,670 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-12 17:36:45,960 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:36:55,040 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:03,905 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:12,962 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:21,949 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:30,544 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:38,996 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:47,437 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:37:56,181 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:38:04,547 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:38:12,764 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:38:23,710 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:38:34,661 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:38:42,928 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 17:38:48,982 - __main__ - INFO - 生成测试报告
+2019-09-12 17:38:48,983 - Report - INFO - 初始化邮件数据
+2019-09-12 17:38:48,983 - Report - INFO - 查找最新生成的测试报告
+2019-09-12 17:38:48,985 - Report - INFO - 发送邮件初始化
+2019-09-12 17:38:48,985 - Report - INFO - 添加邮件正文
+2019-09-12 17:38:48,985 - Report - INFO - 添加邮件附件
+2019-09-12 17:38:48,986 - Report - INFO - 邮件服务器连接
+2019-09-12 17:38:50,829 - Report - INFO - 邮件发送成功

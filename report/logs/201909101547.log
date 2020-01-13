@@ -1,0 +1,14 @@
+2019-09-10 15:47:58,900 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-10 15:47:58,900 - framework.config_file - INFO - The test server url is: http://47.108.71.92
+2019-09-10 15:48:01,174 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-10 15:48:11,005 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-10 15:48:20,840 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-10 15:48:30,665 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-10 15:48:38,212 - __main__ - INFO - 生成测试报告
+2019-09-10 15:48:38,213 - Report - INFO - 初始化邮件数据
+2019-09-10 15:48:38,213 - Report - INFO - 查找最新生成的测试报告
+2019-09-10 15:48:38,214 - Report - INFO - 发送邮件初始化
+2019-09-10 15:48:38,214 - Report - INFO - 添加邮件正文
+2019-09-10 15:48:38,214 - Report - INFO - 添加邮件附件
+2019-09-10 15:48:38,214 - Report - INFO - 邮件服务器连接
+2019-09-10 15:48:39,814 - Report - INFO - 邮件发送成功

@@ -1,0 +1,17 @@
+2019-09-12 16:38:34,487 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-12 16:38:34,488 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-12 16:38:36,898 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:38:46,041 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:38:54,832 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:03,863 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:12,844 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:21,550 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:30,009 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:38,760 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:47,485 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:39:55,980 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:40:04,669 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:40:15,504 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:40:26,556 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:40:35,099 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 16:40:41,093 - __main__ - INFO - 生成测试报告

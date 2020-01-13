@@ -1,0 +1,6 @@
+2019-09-10 12:01:00,138 - __main__ - INFO - You had select Chrome browser.
+2019-09-10 12:01:00,138 - __main__ - INFO - The test server url is: http://47.108.71.92
+2019-09-10 12:01:25,399 - framework.driver.web_driver - INFO - You had select Firefox browser.
+2019-09-10 12:01:25,400 - framework.driver.web_driver - INFO - The test server url is: http://47.108.71.92
+2019-09-10 12:01:31,151 - __main__ - INFO - You had select Firefox browser.
+2019-09-10 12:01:31,152 - __main__ - INFO - The test server url is: http://47.108.71.92

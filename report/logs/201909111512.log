@@ -1,0 +1,5 @@
+2019-09-11 15:12:29,418 - framework.config_file - INFO - You had select Firefox browser.
+2019-09-11 15:12:29,418 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-11 15:12:34,707 - framework.driver.web_driver - INFO - starting firefox browser
+2019-09-11 15:12:43,824 - framework.driver.web_driver - INFO - starting firefox browser
+2019-09-11 15:12:54,060 - framework.driver.web_driver - INFO - starting firefox browser

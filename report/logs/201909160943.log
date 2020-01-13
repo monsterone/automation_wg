@@ -1,0 +1,24 @@
+2019-09-16 09:43:27,736 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-16 09:43:27,736 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-16 09:43:32,410 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:43:51,167 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:44:05,549 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:44:16,666 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:44:27,848 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:44:36,636 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:44:45,063 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:44:53,791 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:02,734 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:11,339 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:19,832 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:31,491 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:42,426 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:50,789 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-16 09:45:56,922 - __main__ - INFO - 生成测试报告
+2019-09-16 09:45:56,923 - Report - INFO - 初始化邮件数据
+2019-09-16 09:45:56,923 - Report - INFO - 查找最新生成的测试报告
+2019-09-16 09:45:56,996 - Report - INFO - 发送邮件初始化
+2019-09-16 09:45:56,997 - Report - INFO - 添加邮件正文
+2019-09-16 09:45:56,999 - Report - INFO - 添加邮件附件
+2019-09-16 09:45:57,000 - Report - INFO - 邮件服务器连接
+2019-09-16 09:45:59,280 - Report - INFO - 邮件发送成功

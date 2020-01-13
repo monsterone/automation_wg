@@ -1,0 +1,2 @@
+2019-09-16 15:15:52,918 - framework.config_file - INFO - You had select geckodriver browser.
+2019-09-16 15:15:52,918 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html

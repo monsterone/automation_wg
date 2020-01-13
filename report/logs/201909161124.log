@@ -1,0 +1,10 @@
+2019-09-16 11:24:34,007 - framework.config_file - INFO - You had select headless browser.
+2019-09-16 11:24:34,007 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-16 11:29:13,122 - __main__ - INFO - 生成测试报告
+2019-09-16 11:29:17,217 - Report - INFO - 初始化邮件数据
+2019-09-16 11:29:17,217 - Report - INFO - 查找最新生成的测试报告
+2019-09-16 11:29:17,220 - Report - INFO - 发送邮件初始化
+2019-09-16 11:29:17,220 - Report - INFO - 添加邮件正文
+2019-09-16 11:29:17,221 - Report - INFO - 添加邮件附件
+2019-09-16 11:29:17,222 - Report - INFO - 邮件服务器连接
+2019-09-16 11:29:22,010 - Report - INFO - 邮件发送成功

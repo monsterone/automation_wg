@@ -1,0 +1,7 @@
+2019-09-12 10:51:20,500 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-12 10:51:20,500 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-12 10:51:40,968 - framework.config_file - INFO - You had select Chrome browser.
+2019-09-12 10:51:40,968 - framework.config_file - INFO - The test server url is: http://192.168.1.192:9000/index.html
+2019-09-12 10:51:43,017 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 10:51:43,619 - framework.driver.web_driver - INFO - starting Chrome browser
+2019-09-12 10:51:52,055 - framework.driver.web_driver - INFO - starting Chrome browser

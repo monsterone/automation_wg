@@ -1,0 +1,13 @@
+2019-09-10 17:47:06,280 - framework.config_file - INFO - You had select Phantomjs browser.
+2019-09-10 17:47:06,280 - framework.config_file - INFO - The test server url is: http://47.108.71.92
+2019-09-10 17:47:09,893 - framework.driver.web_driver - INFO - starting Phantomjs broeser
+2019-09-10 17:47:16,480 - framework.driver.web_driver - INFO - starting Phantomjs broeser
+2019-09-10 17:47:23,264 - framework.driver.web_driver - INFO - starting Phantomjs broeser
+2019-09-10 17:47:29,921 - framework.driver.web_driver - INFO - starting Phantomjs broeser
+2019-09-10 17:47:32,931 - __main__ - INFO - 生成测试报告
+2019-09-10 17:47:32,932 - Report - INFO - 初始化邮件数据
+2019-09-10 17:47:32,932 - Report - INFO - 查找最新生成的测试报告
+2019-09-10 17:47:32,933 - Report - INFO - 发送邮件初始化
+2019-09-10 17:47:32,933 - Report - INFO - 添加邮件正文
+2019-09-10 17:47:32,933 - Report - INFO - 添加邮件附件
+2019-09-10 17:47:32,934 - Report - INFO - 邮件服务器连接
